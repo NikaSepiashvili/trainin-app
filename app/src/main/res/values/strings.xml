@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">trainin-app</string>
+    <string name="run" />
+    <string name="ran">Ran Distance</string>
+    <string name="Add">add</string>
+    <string name="average_results">Average Results</string>
+    <string name="calories">Calories Taken</string>
+    <string name="swam">Swam Distance</string>
+</resources>
